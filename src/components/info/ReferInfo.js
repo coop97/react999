@@ -29,5 +29,4 @@ ReferInfo.propTypes = {
     use: PropTypes.string.isRequired,
 }
 
-
 export default ReferInfo;
